@@ -13,10 +13,6 @@ Computer exercises (3 x 1.5h sessions; see folder `/2016_iah-belgium_pitgm/`).<b
 **Practical introduction to groundwater modelling.**<br>
 Computer exercises (3 x 1.5h sessions; see folder `/2018_iah-belgium_pitgm/`).<br>
 
-[IAH Belgium](https://belgium.iah.org/) Education evenings **2020**:<br>
-Solving everyday groundwater problems with numerical 3D models.<br>
-**A brief introduction to ModelMuse** (45 min presentation; see folder `/2020_iah-belgium_abitm/`).<br>
-
 Concerning the repo name:
 
 > In ancient Greece and Rome, the Muses were thought, by some, to provide the inspiration for
