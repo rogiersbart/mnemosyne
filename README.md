@@ -17,6 +17,8 @@ Computer exercises (3 x 1.5h sessions; see folder `/2018_iah-belgium_pitgm/`).<b
 Solving everyday groundwater problems with numerical 3D models.<br>
 **A brief introduction to ModelMuse** (45 min presentation; see folder `/2020_iah-belgium_abitm/`).<br>
 
+For dowloading the full repository, you can use [this link](https://github.com/rogiersbart/mnemosyne/archive/master.zip).
+
 Concerning the repo name:
 
 > In ancient Greece and Rome, the Muses were thought, by some, to provide the inspiration for
