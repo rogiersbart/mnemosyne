@@ -1,0 +1,4 @@
+if not exist "..\..\output\NUL" mkdir "..\..\output"
+if not exist "..\..\output\output.data-based\NUL" mkdir "..\..\output\output.data-based"
+..\..\bin\MODFLOW-NWT_64.exe data-based.nam /wait
+pause

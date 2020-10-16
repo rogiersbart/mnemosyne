@@ -1,0 +1,4 @@
+if not exist "..\..\output\NUL" mkdir "..\..\output"
+if not exist "..\..\output\output.sketch\NUL" mkdir "..\..\output\output.sketch"
+..\..\bin\modflow-2005-1.12.exe sketch.nam /wait
+pause

@@ -1,0 +1,5 @@
+if not exist "..\..\output\NUL" mkdir "..\..\output"
+if not exist "..\..\output\output.sketch_Modpath\NUL" mkdir "..\..\output\output.sketch_Modpath"
+call mp.bat /wait
+move /Y MPATH6.LOG ..\..\output\output.sketch_Modpath\MPATH6.LOG
+pause

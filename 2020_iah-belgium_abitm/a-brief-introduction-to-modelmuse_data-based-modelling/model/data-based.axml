@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Model_Archive_List>
+  <bin Model_Name="data-based" FileType="bin">
+    <FileName Model_Name="data-based" FileType="bin">D:\bin\RMODFLOW\MODFLOW-NWT\bin\MODFLOW-NWT_64.exe</FileName>
+  </bin>
+  <ancillary Model_Name="data-based" FileType="ancillary">
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\aquifer-bottom.asc</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\extent.dbf</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\extent.prj</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\extent.shp</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\extent.shx</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\land-surface.asc</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\levels.txt</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\peat.dbf</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\peat.prj</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\peat.shp</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\peat.shx</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\quaternary-bottom.asc</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\rivers.dbf</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\rivers.prj</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\rivers.shp</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">..\data\rivers.shx</FileName>
+    <FileName Model_Name="data-based" FileType="ancillary">data-based.mmZLib</FileName>
+  </ancillary>
+  <model Model_Name="data-based" FileType="Model Input">
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.bas</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.dis</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.drn</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.gsf</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.nam.archive</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.nwt</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.ob_hob</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.oc</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.rch</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">data-based.upw</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">RunModflow.Bat.archive</FileName>
+    <FileName Model_Name="data-based" FileType="Model Input">usgs.data-based.reference</FileName>
+  </model>
+  <output Model_Name="data-based" FileType="Model Output">
+    <FileName Model_Name="data-based" FileType="Model Output">data-based.cbc</FileName>
+    <FileName Model_Name="data-based" FileType="Model Output">data-based.fdn</FileName>
+    <FileName Model_Name="data-based" FileType="Model Output">data-based.fhd</FileName>
+    <FileName Model_Name="data-based" FileType="Model Output">data-based.hob_out</FileName>
+    <FileName Model_Name="data-based" FileType="Model Output">data-based.lst</FileName>
+  </output>
+</Model_Archive_List>

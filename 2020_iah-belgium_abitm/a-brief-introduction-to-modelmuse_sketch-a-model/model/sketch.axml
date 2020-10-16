@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Model_Archive_List>
+  <bin Model_Name="sketch" FileType="bin">
+    <FileName Model_Name="sketch" FileType="bin">..\..\a-brief-introduction-to-modelmuse_software\modflow\modflow-2005-1.12.exe</FileName>
+    <FileName Model_Name="sketch" FileType="bin">..\..\a-brief-introduction-to-modelmuse_software\modpath\modpath-6.0.01_64-bit.exe</FileName>
+  </bin>
+  <ancillary Model_Name="sketch" FileType="ancillary">
+    <FileName Model_Name="sketch" FileType="ancillary">sketch.mmZLib</FileName>
+    <FileName Model_Name="sketch" FileType="ancillary">..\sketch\sketch_map.png</FileName>
+  </ancillary>
+  <model Model_Name="sketch" FileType="Model Input">
+    <FileName Model_Name="sketch" FileType="Model Input">RunModflow.Bat.archive</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.bas</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.dis</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.drn</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.gsf</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.lpf</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.nam.archive</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.oc</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.pcg</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.rch</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">sketch.wel</FileName>
+    <FileName Model_Name="sketch" FileType="Model Input">usgs.sketch.reference</FileName>
+  </model>
+  <output Model_Name="sketch" FileType="Model Output">
+    <FileName Model_Name="sketch" FileType="Model Output">sketch.bhd</FileName>
+    <FileName Model_Name="sketch" FileType="Model Output">sketch.cbc</FileName>
+    <FileName Model_Name="sketch" FileType="Model Output">sketch.fdn</FileName>
+    <FileName Model_Name="sketch" FileType="Model Output">sketch.lst</FileName>
+  </output>
+  <Modpath_Input_Files Model_Name="sketch" FileType="Modpath Input">
+    <FileName Model_Name="sketch" FileType="Modpath Input">Mp.bat.archive</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Input">RunModpath.Bat.archive</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Input">sketch.mpbas</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Input">sketch.mpn.archive</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Input">sketch.mpsim.archive</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Input">sketch.strt</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Input">usgs.sketch_Modpath.reference</FileName>
+  </Modpath_Input_Files>
+  <Modpath_Output_Files Model_Name="sketch" FileType="Modpath Output">
+    <FileName Model_Name="sketch" FileType="Modpath Output">MPATH6.LOG</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Output">sketch.end</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Output">sketch.mplst</FileName>
+    <FileName Model_Name="sketch" FileType="Modpath Output">sketch.path</FileName>
+  </Modpath_Output_Files>
+</Model_Archive_List>

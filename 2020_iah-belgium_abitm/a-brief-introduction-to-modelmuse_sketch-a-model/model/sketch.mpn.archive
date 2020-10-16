@@ -1,0 +1,4 @@
+MPBAS 12 sketch.mpbas
+DIS 13 ..\..\model\model.sketch\sketch.dis
+BUDGET 20 ..\..\output\output.sketch\sketch.cbc
+HEAD 22 ..\..\output\output.sketch\sketch.bhd
