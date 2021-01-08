@@ -1,4 +1,4 @@
-# mnemosyne<img src="mnemosyne.png" align="right" width="15%"/><br><small><font color="#333333">An archive of ModelMuse training materials</font></small>
+# mnemosyne<img src="logo.png" align="right" width="15%"/><br><small><font color="#333333">An archive of ModelMuse training materials</font></small>
 
 This repository archives the training materials I put together for GUI-based groundwater modelling
 with open source USGS software
